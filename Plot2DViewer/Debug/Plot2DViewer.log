@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Plot2DViewer_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Plot2DViewer.cpp
+C:\Users\sirix\Desktop\КГ\Plot2DViewer - Second Method\Plot2DViewer\Camera2D.h(133,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sirix\Desktop\КГ\Plot2DViewer - Second Method\Plot2DViewer\Camera2D.h(133,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sirix\Desktop\КГ\Plot2DViewer - Second Method\Plot2DViewer\Camera2D.h(134,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sirix\Desktop\КГ\Plot2DViewer - Second Method\Plot2DViewer\Model2D.h(82,15): warning C4244: return: преобразование "Cell" в "int", возможна потеря данных
+          with
+          [
+              Cell=double
+          ]
+  Plot2DViewer.vcxproj -> C:\Users\sirix\Desktop\КГ\Plot2DViewer - Second Method\Debug\Plot2DViewer.exe

@@ -1,0 +1,15 @@
+﻿  Plot2DViewer.cpp
+C:\Users\sirix\Desktop\КГ\Plot2DViewer - Second Method\Plot2DViewer\Camera2D.h(133,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sirix\Desktop\КГ\Plot2DViewer - Second Method\Plot2DViewer\Camera2D.h(133,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sirix\Desktop\КГ\Plot2DViewer - Second Method\Plot2DViewer\Camera2D.h(134,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sirix\Desktop\КГ\Plot2DViewer - Second Method\Plot2DViewer\Model2D.h(82,15): warning C4244: return: преобразование "Cell" в "int", возможна потеря данных
+          with
+          [
+              Cell=double
+          ]
+  Создание кода
+  2 of 193 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Plot2DViewer.vcxproj -> C:\Users\sirix\Desktop\КГ\Plot2DViewer - Second Method\Release\Plot2DViewer.exe
